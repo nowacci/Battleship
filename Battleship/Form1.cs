@@ -220,6 +220,14 @@ namespace Battleship
             }
         }
 
+        private void j7__Click(object sender, EventArgs e)
+        {
 
+        }
+
+        private void j1__Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
