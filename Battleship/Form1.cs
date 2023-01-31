@@ -229,5 +229,20 @@ namespace Battleship
         {
 
         }
+
+        private void i2__Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void i4__Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void h5__Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

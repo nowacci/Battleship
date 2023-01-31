@@ -1587,11 +1587,12 @@
             // 
             this.j8.BackColor = System.Drawing.Color.Transparent;
             this.j8.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j8.Location = new System.Drawing.Point(380, 387);
+            this.j8.Location = new System.Drawing.Point(507, 476);
+            this.j8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j8.Name = "j8";
-            this.j8.Size = new System.Drawing.Size(36, 30);
+            this.j8.Size = new System.Drawing.Size(48, 37);
             this.j8.TabIndex = 2;
-            this.j8.Text = "Attack";
+            this.j8.Text = "J8";
             this.j8.UseVisualStyleBackColor = false;
             this.j8.Click += new System.EventHandler(this.PlayerPositionButtonsEvent);
             // 
@@ -1599,11 +1600,12 @@
             // 
             this.i10.BackColor = System.Drawing.Color.Transparent;
             this.i10.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.i10.Location = new System.Drawing.Point(348, 446);
+            this.i10.Location = new System.Drawing.Point(464, 549);
+            this.i10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.i10.Name = "i10";
-            this.i10.Size = new System.Drawing.Size(33, 30);
+            this.i10.Size = new System.Drawing.Size(44, 37);
             this.i10.TabIndex = 2;
-            this.i10.Text = "Attack";
+            this.i10.Text = "I10";
             this.i10.UseVisualStyleBackColor = false;
             this.i10.Click += new System.EventHandler(this.PlayerPositionButtonsEvent);
             // 
@@ -1611,11 +1613,12 @@
             // 
             this.j10.BackColor = System.Drawing.Color.Transparent;
             this.j10.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j10.Location = new System.Drawing.Point(380, 446);
+            this.j10.Location = new System.Drawing.Point(507, 549);
+            this.j10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j10.Name = "j10";
-            this.j10.Size = new System.Drawing.Size(36, 30);
+            this.j10.Size = new System.Drawing.Size(48, 37);
             this.j10.TabIndex = 2;
-            this.j10.Text = "Attack";
+            this.j10.Text = "J10";
             this.j10.UseVisualStyleBackColor = false;
             this.j10.Click += new System.EventHandler(this.PlayerPositionButtonsEvent);
             // 
@@ -1623,1076 +1626,1179 @@
             // 
             this.a1_.BackColor = System.Drawing.Color.Transparent;
             this.a1_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.a1_.Location = new System.Drawing.Point(670, 182);
+            this.a1_.Location = new System.Drawing.Point(893, 224);
+            this.a1_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.a1_.Name = "a1_";
-            this.a1_.Size = new System.Drawing.Size(33, 28);
+            this.a1_.Size = new System.Drawing.Size(44, 34);
             this.a1_.TabIndex = 2;
-            this.a1_.Text = "Attack";
+            this.a1_.Text = "A1";
             this.a1_.UseVisualStyleBackColor = false;
             // 
             // b1_
             // 
             this.b1_.BackColor = System.Drawing.Color.Transparent;
             this.b1_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.b1_.Location = new System.Drawing.Point(702, 182);
+            this.b1_.Location = new System.Drawing.Point(936, 224);
+            this.b1_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.b1_.Name = "b1_";
-            this.b1_.Size = new System.Drawing.Size(36, 28);
+            this.b1_.Size = new System.Drawing.Size(48, 34);
             this.b1_.TabIndex = 2;
-            this.b1_.Text = "Attack";
+            this.b1_.Text = "B1";
             this.b1_.UseVisualStyleBackColor = false;
             // 
             // a2_
             // 
             this.a2_.BackColor = System.Drawing.Color.Transparent;
             this.a2_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.a2_.Location = new System.Drawing.Point(670, 210);
+            this.a2_.Location = new System.Drawing.Point(893, 258);
+            this.a2_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.a2_.Name = "a2_";
-            this.a2_.Size = new System.Drawing.Size(33, 30);
+            this.a2_.Size = new System.Drawing.Size(44, 37);
             this.a2_.TabIndex = 2;
-            this.a2_.Text = "Attack";
+            this.a2_.Text = "A2";
             this.a2_.UseVisualStyleBackColor = false;
             // 
             // a3_
             // 
             this.a3_.BackColor = System.Drawing.Color.Transparent;
             this.a3_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.a3_.Location = new System.Drawing.Point(670, 241);
+            this.a3_.Location = new System.Drawing.Point(893, 297);
+            this.a3_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.a3_.Name = "a3_";
-            this.a3_.Size = new System.Drawing.Size(33, 28);
+            this.a3_.Size = new System.Drawing.Size(44, 34);
             this.a3_.TabIndex = 2;
-            this.a3_.Text = "Attack";
+            this.a3_.Text = "A3";
             this.a3_.UseVisualStyleBackColor = false;
             // 
             // b2_
             // 
             this.b2_.BackColor = System.Drawing.Color.Transparent;
             this.b2_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.b2_.Location = new System.Drawing.Point(702, 210);
+            this.b2_.Location = new System.Drawing.Point(936, 258);
+            this.b2_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.b2_.Name = "b2_";
-            this.b2_.Size = new System.Drawing.Size(36, 30);
+            this.b2_.Size = new System.Drawing.Size(48, 37);
             this.b2_.TabIndex = 2;
-            this.b2_.Text = "Attack";
+            this.b2_.Text = "B2";
             this.b2_.UseVisualStyleBackColor = false;
             // 
             // c1_
             // 
             this.c1_.BackColor = System.Drawing.Color.Transparent;
             this.c1_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.c1_.Location = new System.Drawing.Point(739, 182);
+            this.c1_.Location = new System.Drawing.Point(985, 224);
+            this.c1_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.c1_.Name = "c1_";
-            this.c1_.Size = new System.Drawing.Size(33, 28);
+            this.c1_.Size = new System.Drawing.Size(44, 34);
             this.c1_.TabIndex = 2;
-            this.c1_.Text = "Attack";
+            this.c1_.Text = "C1";
             this.c1_.UseVisualStyleBackColor = false;
             // 
             // a4_
             // 
             this.a4_.BackColor = System.Drawing.Color.Transparent;
             this.a4_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.a4_.Location = new System.Drawing.Point(670, 269);
+            this.a4_.Location = new System.Drawing.Point(893, 331);
+            this.a4_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.a4_.Name = "a4_";
-            this.a4_.Size = new System.Drawing.Size(33, 30);
+            this.a4_.Size = new System.Drawing.Size(44, 37);
             this.a4_.TabIndex = 2;
-            this.a4_.Text = "Attack";
+            this.a4_.Text = "A4";
             this.a4_.UseVisualStyleBackColor = false;
             // 
             // a5_
             // 
             this.a5_.BackColor = System.Drawing.Color.Transparent;
             this.a5_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.a5_.Location = new System.Drawing.Point(670, 300);
+            this.a5_.Location = new System.Drawing.Point(893, 369);
+            this.a5_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.a5_.Name = "a5_";
-            this.a5_.Size = new System.Drawing.Size(33, 28);
+            this.a5_.Size = new System.Drawing.Size(44, 34);
             this.a5_.TabIndex = 2;
-            this.a5_.Text = "Attack";
+            this.a5_.Text = "A5";
             this.a5_.UseVisualStyleBackColor = false;
             // 
             // c2_
             // 
             this.c2_.BackColor = System.Drawing.Color.Transparent;
             this.c2_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.c2_.Location = new System.Drawing.Point(739, 210);
+            this.c2_.Location = new System.Drawing.Point(985, 258);
+            this.c2_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.c2_.Name = "c2_";
-            this.c2_.Size = new System.Drawing.Size(33, 30);
+            this.c2_.Size = new System.Drawing.Size(44, 37);
             this.c2_.TabIndex = 2;
-            this.c2_.Text = "Attack";
+            this.c2_.Text = "C2";
             this.c2_.UseVisualStyleBackColor = false;
             // 
             // b3_
             // 
             this.b3_.BackColor = System.Drawing.Color.Transparent;
             this.b3_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.b3_.Location = new System.Drawing.Point(702, 241);
+            this.b3_.Location = new System.Drawing.Point(936, 297);
+            this.b3_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.b3_.Name = "b3_";
-            this.b3_.Size = new System.Drawing.Size(36, 28);
+            this.b3_.Size = new System.Drawing.Size(48, 34);
             this.b3_.TabIndex = 2;
-            this.b3_.Text = "Attack";
+            this.b3_.Text = "B3";
             this.b3_.UseVisualStyleBackColor = false;
             // 
             // a6_
             // 
             this.a6_.BackColor = System.Drawing.Color.Transparent;
             this.a6_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.a6_.Location = new System.Drawing.Point(670, 328);
+            this.a6_.Location = new System.Drawing.Point(893, 404);
+            this.a6_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.a6_.Name = "a6_";
-            this.a6_.Size = new System.Drawing.Size(33, 30);
+            this.a6_.Size = new System.Drawing.Size(44, 37);
             this.a6_.TabIndex = 2;
-            this.a6_.Text = "Attack";
+            this.a6_.Text = "A6";
             this.a6_.UseVisualStyleBackColor = false;
             // 
             // a7_
             // 
             this.a7_.BackColor = System.Drawing.Color.Transparent;
             this.a7_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.a7_.Location = new System.Drawing.Point(670, 359);
+            this.a7_.Location = new System.Drawing.Point(893, 442);
+            this.a7_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.a7_.Name = "a7_";
-            this.a7_.Size = new System.Drawing.Size(33, 28);
+            this.a7_.Size = new System.Drawing.Size(44, 34);
             this.a7_.TabIndex = 2;
-            this.a7_.Text = "Attack";
+            this.a7_.Text = "A7";
             this.a7_.UseVisualStyleBackColor = false;
             // 
             // b4_
             // 
             this.b4_.BackColor = System.Drawing.Color.Transparent;
             this.b4_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.b4_.Location = new System.Drawing.Point(702, 269);
+            this.b4_.Location = new System.Drawing.Point(936, 331);
+            this.b4_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.b4_.Name = "b4_";
-            this.b4_.Size = new System.Drawing.Size(36, 30);
+            this.b4_.Size = new System.Drawing.Size(48, 37);
             this.b4_.TabIndex = 2;
-            this.b4_.Text = "Attack";
+            this.b4_.Text = "B4";
             this.b4_.UseVisualStyleBackColor = false;
             // 
             // d1_
             // 
             this.d1_.BackColor = System.Drawing.Color.Transparent;
             this.d1_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.d1_.Location = new System.Drawing.Point(771, 182);
+            this.d1_.Location = new System.Drawing.Point(1028, 224);
+            this.d1_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.d1_.Name = "d1_";
-            this.d1_.Size = new System.Drawing.Size(36, 28);
+            this.d1_.Size = new System.Drawing.Size(48, 34);
             this.d1_.TabIndex = 2;
-            this.d1_.Text = "Attack";
+            this.d1_.Text = "D1";
             this.d1_.UseVisualStyleBackColor = false;
             // 
             // a8_
             // 
             this.a8_.BackColor = System.Drawing.Color.Transparent;
             this.a8_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.a8_.Location = new System.Drawing.Point(670, 387);
+            this.a8_.Location = new System.Drawing.Point(893, 476);
+            this.a8_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.a8_.Name = "a8_";
-            this.a8_.Size = new System.Drawing.Size(33, 30);
+            this.a8_.Size = new System.Drawing.Size(44, 37);
             this.a8_.TabIndex = 2;
-            this.a8_.Text = "Attack";
+            this.a8_.Text = "A8";
             this.a8_.UseVisualStyleBackColor = false;
             // 
             // a9_
             // 
             this.a9_.BackColor = System.Drawing.Color.Transparent;
             this.a9_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.a9_.Location = new System.Drawing.Point(670, 418);
+            this.a9_.Location = new System.Drawing.Point(893, 514);
+            this.a9_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.a9_.Name = "a9_";
-            this.a9_.Size = new System.Drawing.Size(33, 28);
+            this.a9_.Size = new System.Drawing.Size(44, 34);
             this.a9_.TabIndex = 2;
-            this.a9_.Text = "Attack";
+            this.a9_.Text = "A9";
             this.a9_.UseVisualStyleBackColor = false;
             // 
             // d2_
             // 
             this.d2_.BackColor = System.Drawing.Color.Transparent;
             this.d2_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.d2_.Location = new System.Drawing.Point(771, 210);
+            this.d2_.Location = new System.Drawing.Point(1028, 258);
+            this.d2_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.d2_.Name = "d2_";
-            this.d2_.Size = new System.Drawing.Size(36, 30);
+            this.d2_.Size = new System.Drawing.Size(48, 37);
             this.d2_.TabIndex = 2;
-            this.d2_.Text = "Attack";
+            this.d2_.Text = "D2";
             this.d2_.UseVisualStyleBackColor = false;
             // 
             // b5_
             // 
             this.b5_.BackColor = System.Drawing.Color.Transparent;
             this.b5_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.b5_.Location = new System.Drawing.Point(702, 300);
+            this.b5_.Location = new System.Drawing.Point(936, 369);
+            this.b5_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.b5_.Name = "b5_";
-            this.b5_.Size = new System.Drawing.Size(36, 28);
+            this.b5_.Size = new System.Drawing.Size(48, 34);
             this.b5_.TabIndex = 2;
-            this.b5_.Text = "Attack";
+            this.b5_.Text = "B5";
             this.b5_.UseVisualStyleBackColor = false;
             // 
             // a10_
             // 
             this.a10_.BackColor = System.Drawing.Color.Transparent;
             this.a10_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.a10_.Location = new System.Drawing.Point(670, 446);
+            this.a10_.Location = new System.Drawing.Point(893, 549);
+            this.a10_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.a10_.Name = "a10_";
-            this.a10_.Size = new System.Drawing.Size(33, 30);
+            this.a10_.Size = new System.Drawing.Size(44, 37);
             this.a10_.TabIndex = 2;
-            this.a10_.Text = "Attack";
+            this.a10_.Text = "A10";
             this.a10_.UseVisualStyleBackColor = false;
             // 
             // c3_
             // 
             this.c3_.BackColor = System.Drawing.Color.Transparent;
             this.c3_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.c3_.Location = new System.Drawing.Point(739, 241);
+            this.c3_.Location = new System.Drawing.Point(985, 297);
+            this.c3_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.c3_.Name = "c3_";
-            this.c3_.Size = new System.Drawing.Size(33, 28);
+            this.c3_.Size = new System.Drawing.Size(44, 34);
             this.c3_.TabIndex = 2;
-            this.c3_.Text = "Attack";
+            this.c3_.Text = "C3";
             this.c3_.UseVisualStyleBackColor = false;
             // 
             // b6_
             // 
             this.b6_.BackColor = System.Drawing.Color.Transparent;
             this.b6_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.b6_.Location = new System.Drawing.Point(702, 328);
+            this.b6_.Location = new System.Drawing.Point(936, 404);
+            this.b6_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.b6_.Name = "b6_";
-            this.b6_.Size = new System.Drawing.Size(36, 30);
+            this.b6_.Size = new System.Drawing.Size(48, 37);
             this.b6_.TabIndex = 2;
-            this.b6_.Text = "Attack";
+            this.b6_.Text = "B6";
             this.b6_.UseVisualStyleBackColor = false;
             // 
             // b7_
             // 
             this.b7_.BackColor = System.Drawing.Color.Transparent;
             this.b7_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.b7_.Location = new System.Drawing.Point(702, 359);
+            this.b7_.Location = new System.Drawing.Point(936, 442);
+            this.b7_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.b7_.Name = "b7_";
-            this.b7_.Size = new System.Drawing.Size(36, 28);
+            this.b7_.Size = new System.Drawing.Size(48, 34);
             this.b7_.TabIndex = 2;
-            this.b7_.Text = "Attack";
+            this.b7_.Text = "B7";
             this.b7_.UseVisualStyleBackColor = false;
             // 
             // c4_
             // 
             this.c4_.BackColor = System.Drawing.Color.Transparent;
             this.c4_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.c4_.Location = new System.Drawing.Point(739, 269);
+            this.c4_.Location = new System.Drawing.Point(985, 331);
+            this.c4_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.c4_.Name = "c4_";
-            this.c4_.Size = new System.Drawing.Size(33, 30);
+            this.c4_.Size = new System.Drawing.Size(44, 37);
             this.c4_.TabIndex = 2;
-            this.c4_.Text = "Attack";
+            this.c4_.Text = "C4";
             this.c4_.UseVisualStyleBackColor = false;
             // 
             // e1_
             // 
             this.e1_.BackColor = System.Drawing.Color.Transparent;
             this.e1_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.e1_.Location = new System.Drawing.Point(807, 182);
+            this.e1_.Location = new System.Drawing.Point(1076, 224);
+            this.e1_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.e1_.Name = "e1_";
-            this.e1_.Size = new System.Drawing.Size(33, 28);
+            this.e1_.Size = new System.Drawing.Size(44, 34);
             this.e1_.TabIndex = 2;
-            this.e1_.Text = "Attack";
+            this.e1_.Text = "E1";
             this.e1_.UseVisualStyleBackColor = false;
             // 
             // b8_
             // 
             this.b8_.BackColor = System.Drawing.Color.Transparent;
             this.b8_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.b8_.Location = new System.Drawing.Point(702, 387);
+            this.b8_.Location = new System.Drawing.Point(936, 476);
+            this.b8_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.b8_.Name = "b8_";
-            this.b8_.Size = new System.Drawing.Size(36, 30);
+            this.b8_.Size = new System.Drawing.Size(48, 37);
             this.b8_.TabIndex = 2;
-            this.b8_.Text = "Attack";
+            this.b8_.Text = "B8";
             this.b8_.UseVisualStyleBackColor = false;
             // 
             // b9_
             // 
             this.b9_.BackColor = System.Drawing.Color.Transparent;
             this.b9_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.b9_.Location = new System.Drawing.Point(702, 418);
+            this.b9_.Location = new System.Drawing.Point(936, 514);
+            this.b9_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.b9_.Name = "b9_";
-            this.b9_.Size = new System.Drawing.Size(36, 28);
+            this.b9_.Size = new System.Drawing.Size(48, 34);
             this.b9_.TabIndex = 2;
-            this.b9_.Text = "Attack";
+            this.b9_.Text = "B9";
             this.b9_.UseVisualStyleBackColor = false;
             // 
             // e2_
             // 
             this.e2_.BackColor = System.Drawing.Color.Transparent;
             this.e2_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.e2_.Location = new System.Drawing.Point(807, 210);
+            this.e2_.Location = new System.Drawing.Point(1076, 258);
+            this.e2_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.e2_.Name = "e2_";
-            this.e2_.Size = new System.Drawing.Size(33, 30);
+            this.e2_.Size = new System.Drawing.Size(44, 37);
             this.e2_.TabIndex = 2;
-            this.e2_.Text = "Attack";
+            this.e2_.Text = "E2";
             this.e2_.UseVisualStyleBackColor = false;
             // 
             // c5_
             // 
             this.c5_.BackColor = System.Drawing.Color.Transparent;
             this.c5_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.c5_.Location = new System.Drawing.Point(739, 300);
+            this.c5_.Location = new System.Drawing.Point(985, 369);
+            this.c5_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.c5_.Name = "c5_";
-            this.c5_.Size = new System.Drawing.Size(33, 28);
+            this.c5_.Size = new System.Drawing.Size(44, 34);
             this.c5_.TabIndex = 2;
-            this.c5_.Text = "Attack";
+            this.c5_.Text = "C5";
             this.c5_.UseVisualStyleBackColor = false;
             // 
             // b10_
             // 
             this.b10_.BackColor = System.Drawing.Color.Transparent;
             this.b10_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.b10_.Location = new System.Drawing.Point(702, 446);
+            this.b10_.Location = new System.Drawing.Point(936, 549);
+            this.b10_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.b10_.Name = "b10_";
-            this.b10_.Size = new System.Drawing.Size(36, 30);
+            this.b10_.Size = new System.Drawing.Size(48, 37);
             this.b10_.TabIndex = 2;
-            this.b10_.Text = "Attack";
+            this.b10_.Text = "B10";
             this.b10_.UseVisualStyleBackColor = false;
             // 
             // d3_
             // 
             this.d3_.BackColor = System.Drawing.Color.Transparent;
             this.d3_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.d3_.Location = new System.Drawing.Point(771, 241);
+            this.d3_.Location = new System.Drawing.Point(1028, 297);
+            this.d3_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.d3_.Name = "d3_";
-            this.d3_.Size = new System.Drawing.Size(36, 28);
+            this.d3_.Size = new System.Drawing.Size(48, 34);
             this.d3_.TabIndex = 2;
-            this.d3_.Text = "Attack";
+            this.d3_.Text = "D3";
             this.d3_.UseVisualStyleBackColor = false;
             // 
             // c6_
             // 
             this.c6_.BackColor = System.Drawing.Color.Transparent;
             this.c6_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.c6_.Location = new System.Drawing.Point(739, 328);
+            this.c6_.Location = new System.Drawing.Point(985, 404);
+            this.c6_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.c6_.Name = "c6_";
-            this.c6_.Size = new System.Drawing.Size(33, 30);
+            this.c6_.Size = new System.Drawing.Size(44, 37);
             this.c6_.TabIndex = 2;
-            this.c6_.Text = "Attack";
+            this.c6_.Text = "C6";
             this.c6_.UseVisualStyleBackColor = false;
             // 
             // c7_
             // 
             this.c7_.BackColor = System.Drawing.Color.Transparent;
             this.c7_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.c7_.Location = new System.Drawing.Point(739, 359);
+            this.c7_.Location = new System.Drawing.Point(985, 442);
+            this.c7_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.c7_.Name = "c7_";
-            this.c7_.Size = new System.Drawing.Size(33, 28);
+            this.c7_.Size = new System.Drawing.Size(44, 34);
             this.c7_.TabIndex = 2;
-            this.c7_.Text = "Attack";
+            this.c7_.Text = "C7";
             this.c7_.UseVisualStyleBackColor = false;
             // 
             // d4_
             // 
             this.d4_.BackColor = System.Drawing.Color.Transparent;
             this.d4_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.d4_.Location = new System.Drawing.Point(771, 269);
+            this.d4_.Location = new System.Drawing.Point(1028, 331);
+            this.d4_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.d4_.Name = "d4_";
-            this.d4_.Size = new System.Drawing.Size(36, 30);
+            this.d4_.Size = new System.Drawing.Size(48, 37);
             this.d4_.TabIndex = 2;
-            this.d4_.Text = "Attack";
+            this.d4_.Text = "D4";
             this.d4_.UseVisualStyleBackColor = false;
             // 
             // f1_
             // 
             this.f1_.BackColor = System.Drawing.Color.Transparent;
             this.f1_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.f1_.Location = new System.Drawing.Point(839, 182);
+            this.f1_.Location = new System.Drawing.Point(1119, 224);
+            this.f1_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.f1_.Name = "f1_";
-            this.f1_.Size = new System.Drawing.Size(36, 28);
+            this.f1_.Size = new System.Drawing.Size(48, 34);
             this.f1_.TabIndex = 2;
-            this.f1_.Text = "Attack";
+            this.f1_.Text = "F1";
             this.f1_.UseVisualStyleBackColor = false;
             // 
             // c8_
             // 
             this.c8_.BackColor = System.Drawing.Color.Transparent;
             this.c8_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.c8_.Location = new System.Drawing.Point(739, 387);
+            this.c8_.Location = new System.Drawing.Point(985, 476);
+            this.c8_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.c8_.Name = "c8_";
-            this.c8_.Size = new System.Drawing.Size(33, 30);
+            this.c8_.Size = new System.Drawing.Size(44, 37);
             this.c8_.TabIndex = 2;
-            this.c8_.Text = "Attack";
+            this.c8_.Text = "C8";
             this.c8_.UseVisualStyleBackColor = false;
             // 
             // c9_
             // 
             this.c9_.BackColor = System.Drawing.Color.Transparent;
             this.c9_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.c9_.Location = new System.Drawing.Point(739, 418);
+            this.c9_.Location = new System.Drawing.Point(985, 514);
+            this.c9_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.c9_.Name = "c9_";
-            this.c9_.Size = new System.Drawing.Size(33, 28);
+            this.c9_.Size = new System.Drawing.Size(44, 34);
             this.c9_.TabIndex = 2;
-            this.c9_.Text = "Attack";
+            this.c9_.Text = "C9";
             this.c9_.UseVisualStyleBackColor = false;
             // 
             // f2_
             // 
             this.f2_.BackColor = System.Drawing.Color.Transparent;
             this.f2_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.f2_.Location = new System.Drawing.Point(839, 210);
+            this.f2_.Location = new System.Drawing.Point(1119, 258);
+            this.f2_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.f2_.Name = "f2_";
-            this.f2_.Size = new System.Drawing.Size(36, 30);
+            this.f2_.Size = new System.Drawing.Size(48, 37);
             this.f2_.TabIndex = 2;
-            this.f2_.Text = "Attack";
+            this.f2_.Text = "F2";
             this.f2_.UseVisualStyleBackColor = false;
             // 
             // d5_
             // 
             this.d5_.BackColor = System.Drawing.Color.Transparent;
             this.d5_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.d5_.Location = new System.Drawing.Point(771, 300);
+            this.d5_.Location = new System.Drawing.Point(1028, 369);
+            this.d5_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.d5_.Name = "d5_";
-            this.d5_.Size = new System.Drawing.Size(36, 28);
+            this.d5_.Size = new System.Drawing.Size(48, 34);
             this.d5_.TabIndex = 2;
-            this.d5_.Text = "Attack";
+            this.d5_.Text = "D5";
             this.d5_.UseVisualStyleBackColor = false;
             // 
             // c10_
             // 
             this.c10_.BackColor = System.Drawing.Color.Transparent;
             this.c10_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.c10_.Location = new System.Drawing.Point(739, 446);
+            this.c10_.Location = new System.Drawing.Point(985, 549);
+            this.c10_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.c10_.Name = "c10_";
-            this.c10_.Size = new System.Drawing.Size(33, 30);
+            this.c10_.Size = new System.Drawing.Size(44, 37);
             this.c10_.TabIndex = 2;
-            this.c10_.Text = "Attack";
+            this.c10_.Text = "C10";
             this.c10_.UseVisualStyleBackColor = false;
             // 
             // e3_
             // 
             this.e3_.BackColor = System.Drawing.Color.Transparent;
             this.e3_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.e3_.Location = new System.Drawing.Point(807, 241);
+            this.e3_.Location = new System.Drawing.Point(1076, 297);
+            this.e3_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.e3_.Name = "e3_";
-            this.e3_.Size = new System.Drawing.Size(33, 28);
+            this.e3_.Size = new System.Drawing.Size(44, 34);
             this.e3_.TabIndex = 2;
-            this.e3_.Text = "Attack";
+            this.e3_.Text = "E3";
             this.e3_.UseVisualStyleBackColor = false;
             // 
             // d6_
             // 
             this.d6_.BackColor = System.Drawing.Color.Transparent;
             this.d6_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.d6_.Location = new System.Drawing.Point(771, 328);
+            this.d6_.Location = new System.Drawing.Point(1028, 404);
+            this.d6_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.d6_.Name = "d6_";
-            this.d6_.Size = new System.Drawing.Size(36, 30);
+            this.d6_.Size = new System.Drawing.Size(48, 37);
             this.d6_.TabIndex = 2;
-            this.d6_.Text = "Attack";
+            this.d6_.Text = "D6";
             this.d6_.UseVisualStyleBackColor = false;
             // 
             // d7_
             // 
             this.d7_.BackColor = System.Drawing.Color.Transparent;
             this.d7_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.d7_.Location = new System.Drawing.Point(771, 359);
+            this.d7_.Location = new System.Drawing.Point(1028, 442);
+            this.d7_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.d7_.Name = "d7_";
-            this.d7_.Size = new System.Drawing.Size(36, 28);
+            this.d7_.Size = new System.Drawing.Size(48, 34);
             this.d7_.TabIndex = 2;
-            this.d7_.Text = "Attack";
+            this.d7_.Text = "D7";
             this.d7_.UseVisualStyleBackColor = false;
             // 
             // e4_
             // 
             this.e4_.BackColor = System.Drawing.Color.Transparent;
             this.e4_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.e4_.Location = new System.Drawing.Point(807, 269);
+            this.e4_.Location = new System.Drawing.Point(1076, 331);
+            this.e4_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.e4_.Name = "e4_";
-            this.e4_.Size = new System.Drawing.Size(33, 30);
+            this.e4_.Size = new System.Drawing.Size(44, 37);
             this.e4_.TabIndex = 2;
-            this.e4_.Text = "Attack";
+            this.e4_.Text = "E4";
             this.e4_.UseVisualStyleBackColor = false;
             // 
             // g1_
             // 
             this.g1_.BackColor = System.Drawing.Color.Transparent;
             this.g1_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.g1_.Location = new System.Drawing.Point(875, 182);
+            this.g1_.Location = new System.Drawing.Point(1167, 224);
+            this.g1_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.g1_.Name = "g1_";
-            this.g1_.Size = new System.Drawing.Size(33, 28);
+            this.g1_.Size = new System.Drawing.Size(44, 34);
             this.g1_.TabIndex = 2;
-            this.g1_.Text = "Attack";
+            this.g1_.Text = "G1";
             this.g1_.UseVisualStyleBackColor = false;
             // 
             // d8_
             // 
             this.d8_.BackColor = System.Drawing.Color.Transparent;
             this.d8_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.d8_.Location = new System.Drawing.Point(771, 387);
+            this.d8_.Location = new System.Drawing.Point(1028, 476);
+            this.d8_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.d8_.Name = "d8_";
-            this.d8_.Size = new System.Drawing.Size(36, 30);
+            this.d8_.Size = new System.Drawing.Size(48, 37);
             this.d8_.TabIndex = 2;
-            this.d8_.Text = "Attack";
+            this.d8_.Text = "D8";
             this.d8_.UseVisualStyleBackColor = false;
             // 
             // d9_
             // 
             this.d9_.BackColor = System.Drawing.Color.Transparent;
             this.d9_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.d9_.Location = new System.Drawing.Point(771, 418);
+            this.d9_.Location = new System.Drawing.Point(1028, 514);
+            this.d9_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.d9_.Name = "d9_";
-            this.d9_.Size = new System.Drawing.Size(36, 28);
+            this.d9_.Size = new System.Drawing.Size(48, 34);
             this.d9_.TabIndex = 2;
-            this.d9_.Text = "Attack";
+            this.d9_.Text = "D9";
             this.d9_.UseVisualStyleBackColor = false;
             // 
             // g2_
             // 
             this.g2_.BackColor = System.Drawing.Color.Transparent;
             this.g2_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.g2_.Location = new System.Drawing.Point(875, 210);
+            this.g2_.Location = new System.Drawing.Point(1167, 258);
+            this.g2_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.g2_.Name = "g2_";
-            this.g2_.Size = new System.Drawing.Size(33, 30);
+            this.g2_.Size = new System.Drawing.Size(44, 37);
             this.g2_.TabIndex = 2;
-            this.g2_.Text = "Attack";
+            this.g2_.Text = "G2";
             this.g2_.UseVisualStyleBackColor = false;
             // 
             // e5_
             // 
             this.e5_.BackColor = System.Drawing.Color.Transparent;
             this.e5_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.e5_.Location = new System.Drawing.Point(807, 300);
+            this.e5_.Location = new System.Drawing.Point(1076, 369);
+            this.e5_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.e5_.Name = "e5_";
-            this.e5_.Size = new System.Drawing.Size(33, 28);
+            this.e5_.Size = new System.Drawing.Size(44, 34);
             this.e5_.TabIndex = 2;
-            this.e5_.Text = "Attack";
+            this.e5_.Text = "E5";
             this.e5_.UseVisualStyleBackColor = false;
             // 
             // d10_
             // 
             this.d10_.BackColor = System.Drawing.Color.Transparent;
             this.d10_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.d10_.Location = new System.Drawing.Point(771, 446);
+            this.d10_.Location = new System.Drawing.Point(1028, 549);
+            this.d10_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.d10_.Name = "d10_";
-            this.d10_.Size = new System.Drawing.Size(36, 30);
+            this.d10_.Size = new System.Drawing.Size(48, 37);
             this.d10_.TabIndex = 2;
-            this.d10_.Text = "Attack";
+            this.d10_.Text = "D10";
             this.d10_.UseVisualStyleBackColor = false;
             // 
             // f3_
             // 
             this.f3_.BackColor = System.Drawing.Color.Transparent;
             this.f3_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.f3_.Location = new System.Drawing.Point(839, 241);
+            this.f3_.Location = new System.Drawing.Point(1119, 297);
+            this.f3_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.f3_.Name = "f3_";
-            this.f3_.Size = new System.Drawing.Size(36, 28);
+            this.f3_.Size = new System.Drawing.Size(48, 34);
             this.f3_.TabIndex = 2;
-            this.f3_.Text = "Attack";
+            this.f3_.Text = "F3";
             this.f3_.UseVisualStyleBackColor = false;
             // 
             // e6_
             // 
             this.e6_.BackColor = System.Drawing.Color.Transparent;
             this.e6_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.e6_.Location = new System.Drawing.Point(807, 328);
+            this.e6_.Location = new System.Drawing.Point(1076, 404);
+            this.e6_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.e6_.Name = "e6_";
-            this.e6_.Size = new System.Drawing.Size(33, 30);
+            this.e6_.Size = new System.Drawing.Size(44, 37);
             this.e6_.TabIndex = 2;
-            this.e6_.Text = "Attack";
+            this.e6_.Text = "E6";
             this.e6_.UseVisualStyleBackColor = false;
             // 
             // e7_
             // 
             this.e7_.BackColor = System.Drawing.Color.Transparent;
             this.e7_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.e7_.Location = new System.Drawing.Point(807, 359);
+            this.e7_.Location = new System.Drawing.Point(1076, 442);
+            this.e7_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.e7_.Name = "e7_";
-            this.e7_.Size = new System.Drawing.Size(33, 28);
+            this.e7_.Size = new System.Drawing.Size(44, 34);
             this.e7_.TabIndex = 2;
-            this.e7_.Text = "Attack";
+            this.e7_.Text = "E7";
             this.e7_.UseVisualStyleBackColor = false;
             // 
             // f4_
             // 
             this.f4_.BackColor = System.Drawing.Color.Transparent;
             this.f4_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.f4_.Location = new System.Drawing.Point(839, 269);
+            this.f4_.Location = new System.Drawing.Point(1119, 331);
+            this.f4_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.f4_.Name = "f4_";
-            this.f4_.Size = new System.Drawing.Size(36, 30);
+            this.f4_.Size = new System.Drawing.Size(48, 37);
             this.f4_.TabIndex = 2;
-            this.f4_.Text = "Attack";
+            this.f4_.Text = "F4";
             this.f4_.UseVisualStyleBackColor = false;
             // 
             // h1_
             // 
             this.h1_.BackColor = System.Drawing.Color.Transparent;
             this.h1_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.h1_.Location = new System.Drawing.Point(907, 182);
+            this.h1_.Location = new System.Drawing.Point(1209, 224);
+            this.h1_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.h1_.Name = "h1_";
-            this.h1_.Size = new System.Drawing.Size(36, 28);
+            this.h1_.Size = new System.Drawing.Size(48, 34);
             this.h1_.TabIndex = 2;
-            this.h1_.Text = "Attack";
+            this.h1_.Text = "H1";
             this.h1_.UseVisualStyleBackColor = false;
             // 
             // e8_
             // 
             this.e8_.BackColor = System.Drawing.Color.Transparent;
             this.e8_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.e8_.Location = new System.Drawing.Point(807, 387);
+            this.e8_.Location = new System.Drawing.Point(1076, 476);
+            this.e8_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.e8_.Name = "e8_";
-            this.e8_.Size = new System.Drawing.Size(33, 30);
+            this.e8_.Size = new System.Drawing.Size(44, 37);
             this.e8_.TabIndex = 2;
-            this.e8_.Text = "Attack";
+            this.e8_.Text = "E8";
             this.e8_.UseVisualStyleBackColor = false;
             // 
             // e9_
             // 
             this.e9_.BackColor = System.Drawing.Color.Transparent;
             this.e9_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.e9_.Location = new System.Drawing.Point(807, 418);
+            this.e9_.Location = new System.Drawing.Point(1076, 514);
+            this.e9_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.e9_.Name = "e9_";
-            this.e9_.Size = new System.Drawing.Size(33, 28);
+            this.e9_.Size = new System.Drawing.Size(44, 34);
             this.e9_.TabIndex = 2;
-            this.e9_.Text = "Attack";
+            this.e9_.Text = "E9";
             this.e9_.UseVisualStyleBackColor = false;
             // 
             // h2_
             // 
             this.h2_.BackColor = System.Drawing.Color.Transparent;
             this.h2_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.h2_.Location = new System.Drawing.Point(907, 210);
+            this.h2_.Location = new System.Drawing.Point(1209, 258);
+            this.h2_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.h2_.Name = "h2_";
-            this.h2_.Size = new System.Drawing.Size(36, 30);
+            this.h2_.Size = new System.Drawing.Size(48, 37);
             this.h2_.TabIndex = 2;
-            this.h2_.Text = "Attack";
+            this.h2_.Text = "H2";
             this.h2_.UseVisualStyleBackColor = false;
             // 
             // f5_
             // 
             this.f5_.BackColor = System.Drawing.Color.Transparent;
             this.f5_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.f5_.Location = new System.Drawing.Point(839, 300);
+            this.f5_.Location = new System.Drawing.Point(1119, 369);
+            this.f5_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.f5_.Name = "f5_";
-            this.f5_.Size = new System.Drawing.Size(36, 28);
+            this.f5_.Size = new System.Drawing.Size(48, 34);
             this.f5_.TabIndex = 2;
-            this.f5_.Text = "Attack";
+            this.f5_.Text = "F5";
             this.f5_.UseVisualStyleBackColor = false;
             // 
             // e10_
             // 
             this.e10_.BackColor = System.Drawing.Color.Transparent;
             this.e10_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.e10_.Location = new System.Drawing.Point(807, 446);
+            this.e10_.Location = new System.Drawing.Point(1076, 549);
+            this.e10_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.e10_.Name = "e10_";
-            this.e10_.Size = new System.Drawing.Size(33, 30);
+            this.e10_.Size = new System.Drawing.Size(44, 37);
             this.e10_.TabIndex = 2;
-            this.e10_.Text = "Attack";
+            this.e10_.Text = "E10";
             this.e10_.UseVisualStyleBackColor = false;
             // 
             // g3_
             // 
             this.g3_.BackColor = System.Drawing.Color.Transparent;
             this.g3_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.g3_.Location = new System.Drawing.Point(875, 241);
+            this.g3_.Location = new System.Drawing.Point(1167, 297);
+            this.g3_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.g3_.Name = "g3_";
-            this.g3_.Size = new System.Drawing.Size(33, 28);
+            this.g3_.Size = new System.Drawing.Size(44, 34);
             this.g3_.TabIndex = 2;
-            this.g3_.Text = "Attack";
+            this.g3_.Text = "G3";
             this.g3_.UseVisualStyleBackColor = false;
             // 
             // f6_
             // 
             this.f6_.BackColor = System.Drawing.Color.Transparent;
             this.f6_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.f6_.Location = new System.Drawing.Point(839, 328);
+            this.f6_.Location = new System.Drawing.Point(1119, 404);
+            this.f6_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.f6_.Name = "f6_";
-            this.f6_.Size = new System.Drawing.Size(36, 30);
+            this.f6_.Size = new System.Drawing.Size(48, 37);
             this.f6_.TabIndex = 2;
-            this.f6_.Text = "Attack";
+            this.f6_.Text = "F6";
             this.f6_.UseVisualStyleBackColor = false;
             // 
             // f7_
             // 
             this.f7_.BackColor = System.Drawing.Color.Transparent;
             this.f7_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.f7_.Location = new System.Drawing.Point(839, 359);
+            this.f7_.Location = new System.Drawing.Point(1119, 442);
+            this.f7_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.f7_.Name = "f7_";
-            this.f7_.Size = new System.Drawing.Size(36, 28);
+            this.f7_.Size = new System.Drawing.Size(48, 34);
             this.f7_.TabIndex = 2;
-            this.f7_.Text = "Attack";
+            this.f7_.Text = "F7";
             this.f7_.UseVisualStyleBackColor = false;
             // 
             // g4_
             // 
             this.g4_.BackColor = System.Drawing.Color.Transparent;
             this.g4_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.g4_.Location = new System.Drawing.Point(875, 269);
+            this.g4_.Location = new System.Drawing.Point(1167, 331);
+            this.g4_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.g4_.Name = "g4_";
-            this.g4_.Size = new System.Drawing.Size(33, 30);
+            this.g4_.Size = new System.Drawing.Size(44, 37);
             this.g4_.TabIndex = 2;
-            this.g4_.Text = "Attack";
+            this.g4_.Text = "G4";
             this.g4_.UseVisualStyleBackColor = false;
             // 
             // i1_
             // 
             this.i1_.BackColor = System.Drawing.Color.Transparent;
             this.i1_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.i1_.Location = new System.Drawing.Point(944, 182);
+            this.i1_.Location = new System.Drawing.Point(1259, 224);
+            this.i1_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.i1_.Name = "i1_";
-            this.i1_.Size = new System.Drawing.Size(33, 28);
+            this.i1_.Size = new System.Drawing.Size(44, 34);
             this.i1_.TabIndex = 2;
-            this.i1_.Text = "Attack";
+            this.i1_.Text = "I1";
             this.i1_.UseVisualStyleBackColor = false;
             // 
             // f8_
             // 
             this.f8_.BackColor = System.Drawing.Color.Transparent;
             this.f8_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.f8_.Location = new System.Drawing.Point(839, 387);
+            this.f8_.Location = new System.Drawing.Point(1119, 476);
+            this.f8_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.f8_.Name = "f8_";
-            this.f8_.Size = new System.Drawing.Size(36, 30);
+            this.f8_.Size = new System.Drawing.Size(48, 37);
             this.f8_.TabIndex = 2;
-            this.f8_.Text = "Attack";
+            this.f8_.Text = "F8";
             this.f8_.UseVisualStyleBackColor = false;
             // 
             // f9_
             // 
             this.f9_.BackColor = System.Drawing.Color.Transparent;
             this.f9_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.f9_.Location = new System.Drawing.Point(839, 418);
+            this.f9_.Location = new System.Drawing.Point(1119, 514);
+            this.f9_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.f9_.Name = "f9_";
-            this.f9_.Size = new System.Drawing.Size(36, 28);
+            this.f9_.Size = new System.Drawing.Size(48, 34);
             this.f9_.TabIndex = 2;
-            this.f9_.Text = "Attack";
+            this.f9_.Text = "F9";
             this.f9_.UseVisualStyleBackColor = false;
             // 
             // i2_
             // 
             this.i2_.BackColor = System.Drawing.Color.Transparent;
             this.i2_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.i2_.Location = new System.Drawing.Point(944, 210);
+            this.i2_.Location = new System.Drawing.Point(1259, 258);
+            this.i2_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.i2_.Name = "i2_";
-            this.i2_.Size = new System.Drawing.Size(33, 30);
+            this.i2_.Size = new System.Drawing.Size(44, 37);
             this.i2_.TabIndex = 2;
-            this.i2_.Text = "Attack";
+            this.i2_.Text = "I2";
             this.i2_.UseVisualStyleBackColor = false;
+            this.i2_.Click += new System.EventHandler(this.i2__Click);
             // 
             // g5_
             // 
             this.g5_.BackColor = System.Drawing.Color.Transparent;
             this.g5_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.g5_.Location = new System.Drawing.Point(875, 300);
+            this.g5_.Location = new System.Drawing.Point(1167, 369);
+            this.g5_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.g5_.Name = "g5_";
-            this.g5_.Size = new System.Drawing.Size(33, 28);
+            this.g5_.Size = new System.Drawing.Size(44, 34);
             this.g5_.TabIndex = 2;
-            this.g5_.Text = "Attack";
+            this.g5_.Text = "G5";
             this.g5_.UseVisualStyleBackColor = false;
             // 
             // f10_
             // 
             this.f10_.BackColor = System.Drawing.Color.Transparent;
             this.f10_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.f10_.Location = new System.Drawing.Point(839, 446);
+            this.f10_.Location = new System.Drawing.Point(1119, 549);
+            this.f10_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.f10_.Name = "f10_";
-            this.f10_.Size = new System.Drawing.Size(36, 30);
+            this.f10_.Size = new System.Drawing.Size(48, 37);
             this.f10_.TabIndex = 2;
-            this.f10_.Text = "Attack";
+            this.f10_.Text = "F10";
             this.f10_.UseVisualStyleBackColor = false;
             // 
             // h3_
             // 
             this.h3_.BackColor = System.Drawing.Color.Transparent;
             this.h3_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.h3_.Location = new System.Drawing.Point(907, 241);
+            this.h3_.Location = new System.Drawing.Point(1209, 297);
+            this.h3_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.h3_.Name = "h3_";
-            this.h3_.Size = new System.Drawing.Size(36, 28);
+            this.h3_.Size = new System.Drawing.Size(48, 34);
             this.h3_.TabIndex = 2;
-            this.h3_.Text = "Attack";
+            this.h3_.Text = "H3";
             this.h3_.UseVisualStyleBackColor = false;
             // 
             // g6_
             // 
             this.g6_.BackColor = System.Drawing.Color.Transparent;
             this.g6_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.g6_.Location = new System.Drawing.Point(875, 328);
+            this.g6_.Location = new System.Drawing.Point(1167, 404);
+            this.g6_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.g6_.Name = "g6_";
-            this.g6_.Size = new System.Drawing.Size(33, 30);
+            this.g6_.Size = new System.Drawing.Size(44, 37);
             this.g6_.TabIndex = 2;
-            this.g6_.Text = "Attack";
+            this.g6_.Text = "G6";
             this.g6_.UseVisualStyleBackColor = false;
             // 
             // g7_
             // 
             this.g7_.BackColor = System.Drawing.Color.Transparent;
             this.g7_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.g7_.Location = new System.Drawing.Point(875, 359);
+            this.g7_.Location = new System.Drawing.Point(1167, 442);
+            this.g7_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.g7_.Name = "g7_";
-            this.g7_.Size = new System.Drawing.Size(33, 28);
+            this.g7_.Size = new System.Drawing.Size(44, 34);
             this.g7_.TabIndex = 2;
-            this.g7_.Text = "Attack";
+            this.g7_.Text = "G7";
             this.g7_.UseVisualStyleBackColor = false;
             // 
             // h4_
             // 
             this.h4_.BackColor = System.Drawing.Color.Transparent;
             this.h4_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.h4_.Location = new System.Drawing.Point(907, 269);
+            this.h4_.Location = new System.Drawing.Point(1209, 331);
+            this.h4_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.h4_.Name = "h4_";
-            this.h4_.Size = new System.Drawing.Size(36, 30);
+            this.h4_.Size = new System.Drawing.Size(48, 37);
             this.h4_.TabIndex = 2;
-            this.h4_.Text = "Attack";
+            this.h4_.Text = "H4";
             this.h4_.UseVisualStyleBackColor = false;
             // 
             // j1_
             // 
             this.j1_.BackColor = System.Drawing.Color.Transparent;
             this.j1_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j1_.Location = new System.Drawing.Point(976, 182);
+            this.j1_.Location = new System.Drawing.Point(1301, 224);
+            this.j1_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j1_.Name = "j1_";
-            this.j1_.Size = new System.Drawing.Size(36, 28);
+            this.j1_.Size = new System.Drawing.Size(48, 34);
             this.j1_.TabIndex = 2;
-            this.j1_.Text = "Attack";
+            this.j1_.Text = "J1";
             this.j1_.UseVisualStyleBackColor = false;
+            this.j1_.Click += new System.EventHandler(this.j1__Click);
             // 
             // g8_
             // 
             this.g8_.BackColor = System.Drawing.Color.Transparent;
             this.g8_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.g8_.Location = new System.Drawing.Point(875, 387);
+            this.g8_.Location = new System.Drawing.Point(1167, 476);
+            this.g8_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.g8_.Name = "g8_";
-            this.g8_.Size = new System.Drawing.Size(33, 30);
+            this.g8_.Size = new System.Drawing.Size(44, 37);
             this.g8_.TabIndex = 2;
-            this.g8_.Text = "Attack";
+            this.g8_.Text = "G8";
             this.g8_.UseVisualStyleBackColor = false;
             // 
             // j2_
             // 
             this.j2_.BackColor = System.Drawing.Color.Transparent;
             this.j2_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j2_.Location = new System.Drawing.Point(976, 210);
+            this.j2_.Location = new System.Drawing.Point(1301, 258);
+            this.j2_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j2_.Name = "j2_";
-            this.j2_.Size = new System.Drawing.Size(36, 30);
+            this.j2_.Size = new System.Drawing.Size(48, 37);
             this.j2_.TabIndex = 2;
-            this.j2_.Text = "Attack";
+            this.j2_.Text = "J2";
             this.j2_.UseVisualStyleBackColor = false;
             // 
             // g9_
             // 
             this.g9_.BackColor = System.Drawing.Color.Transparent;
             this.g9_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.g9_.Location = new System.Drawing.Point(875, 418);
+            this.g9_.Location = new System.Drawing.Point(1167, 514);
+            this.g9_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.g9_.Name = "g9_";
-            this.g9_.Size = new System.Drawing.Size(33, 28);
+            this.g9_.Size = new System.Drawing.Size(44, 34);
             this.g9_.TabIndex = 2;
-            this.g9_.Text = "Attack";
+            this.g9_.Text = "G9";
             this.g9_.UseVisualStyleBackColor = false;
             // 
             // g10_
             // 
             this.g10_.BackColor = System.Drawing.Color.Transparent;
             this.g10_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.g10_.Location = new System.Drawing.Point(875, 446);
+            this.g10_.Location = new System.Drawing.Point(1167, 549);
+            this.g10_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.g10_.Name = "g10_";
-            this.g10_.Size = new System.Drawing.Size(33, 30);
+            this.g10_.Size = new System.Drawing.Size(44, 37);
             this.g10_.TabIndex = 2;
-            this.g10_.Text = "Attack";
+            this.g10_.Text = "G10";
             this.g10_.UseVisualStyleBackColor = false;
             // 
             // h5_
             // 
             this.h5_.BackColor = System.Drawing.Color.Transparent;
             this.h5_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.h5_.Location = new System.Drawing.Point(907, 300);
+            this.h5_.Location = new System.Drawing.Point(1209, 369);
+            this.h5_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.h5_.Name = "h5_";
-            this.h5_.Size = new System.Drawing.Size(36, 28);
+            this.h5_.Size = new System.Drawing.Size(48, 34);
             this.h5_.TabIndex = 2;
-            this.h5_.Text = "Attack";
+            this.h5_.Text = "H5";
             this.h5_.UseVisualStyleBackColor = false;
+            this.h5_.Click += new System.EventHandler(this.h5__Click);
             // 
             // h6_
             // 
             this.h6_.BackColor = System.Drawing.Color.Transparent;
             this.h6_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.h6_.Location = new System.Drawing.Point(907, 328);
+            this.h6_.Location = new System.Drawing.Point(1209, 404);
+            this.h6_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.h6_.Name = "h6_";
-            this.h6_.Size = new System.Drawing.Size(36, 30);
+            this.h6_.Size = new System.Drawing.Size(48, 37);
             this.h6_.TabIndex = 2;
-            this.h6_.Text = "Attack";
+            this.h6_.Text = "H6";
             this.h6_.UseVisualStyleBackColor = false;
             // 
             // i3_
             // 
             this.i3_.BackColor = System.Drawing.Color.Transparent;
             this.i3_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.i3_.Location = new System.Drawing.Point(944, 241);
+            this.i3_.Location = new System.Drawing.Point(1259, 297);
+            this.i3_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.i3_.Name = "i3_";
-            this.i3_.Size = new System.Drawing.Size(33, 28);
+            this.i3_.Size = new System.Drawing.Size(44, 34);
             this.i3_.TabIndex = 2;
-            this.i3_.Text = "Attack";
+            this.i3_.Text = "I3";
             this.i3_.UseVisualStyleBackColor = false;
             // 
             // i4_
             // 
             this.i4_.BackColor = System.Drawing.Color.Transparent;
             this.i4_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.i4_.Location = new System.Drawing.Point(944, 269);
+            this.i4_.Location = new System.Drawing.Point(1259, 331);
+            this.i4_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.i4_.Name = "i4_";
-            this.i4_.Size = new System.Drawing.Size(33, 30);
+            this.i4_.Size = new System.Drawing.Size(44, 37);
             this.i4_.TabIndex = 2;
-            this.i4_.Text = "Attack";
+            this.i4_.Text = "I4";
             this.i4_.UseVisualStyleBackColor = false;
+            this.i4_.Click += new System.EventHandler(this.i4__Click);
             // 
             // h7_
             // 
             this.h7_.BackColor = System.Drawing.Color.Transparent;
             this.h7_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.h7_.Location = new System.Drawing.Point(907, 359);
+            this.h7_.Location = new System.Drawing.Point(1209, 442);
+            this.h7_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.h7_.Name = "h7_";
-            this.h7_.Size = new System.Drawing.Size(36, 28);
+            this.h7_.Size = new System.Drawing.Size(48, 34);
             this.h7_.TabIndex = 2;
-            this.h7_.Text = "Attack";
+            this.h7_.Text = "H7";
             this.h7_.UseVisualStyleBackColor = false;
             // 
             // h8_
             // 
             this.h8_.BackColor = System.Drawing.Color.Transparent;
             this.h8_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.h8_.Location = new System.Drawing.Point(907, 387);
+            this.h8_.Location = new System.Drawing.Point(1209, 476);
+            this.h8_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.h8_.Name = "h8_";
-            this.h8_.Size = new System.Drawing.Size(36, 30);
+            this.h8_.Size = new System.Drawing.Size(48, 37);
             this.h8_.TabIndex = 2;
-            this.h8_.Text = "Attack";
+            this.h8_.Text = "H8";
             this.h8_.UseVisualStyleBackColor = false;
             // 
             // j3_
             // 
             this.j3_.BackColor = System.Drawing.Color.Transparent;
             this.j3_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j3_.Location = new System.Drawing.Point(976, 241);
+            this.j3_.Location = new System.Drawing.Point(1301, 297);
+            this.j3_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j3_.Name = "j3_";
-            this.j3_.Size = new System.Drawing.Size(36, 28);
+            this.j3_.Size = new System.Drawing.Size(48, 34);
             this.j3_.TabIndex = 2;
-            this.j3_.Text = "Attack";
+            this.j3_.Text = "J3";
             this.j3_.UseVisualStyleBackColor = false;
             // 
             // j4_
             // 
             this.j4_.BackColor = System.Drawing.Color.Transparent;
             this.j4_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j4_.Location = new System.Drawing.Point(976, 269);
+            this.j4_.Location = new System.Drawing.Point(1301, 331);
+            this.j4_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j4_.Name = "j4_";
-            this.j4_.Size = new System.Drawing.Size(36, 30);
+            this.j4_.Size = new System.Drawing.Size(48, 37);
             this.j4_.TabIndex = 2;
-            this.j4_.Text = "Attack";
+            this.j4_.Text = "J4";
             this.j4_.UseVisualStyleBackColor = false;
             // 
             // h9_
             // 
             this.h9_.BackColor = System.Drawing.Color.Transparent;
             this.h9_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.h9_.Location = new System.Drawing.Point(907, 418);
+            this.h9_.Location = new System.Drawing.Point(1209, 514);
+            this.h9_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.h9_.Name = "h9_";
-            this.h9_.Size = new System.Drawing.Size(36, 28);
+            this.h9_.Size = new System.Drawing.Size(48, 34);
             this.h9_.TabIndex = 2;
-            this.h9_.Text = "Attack";
+            this.h9_.Text = "H9";
             this.h9_.UseVisualStyleBackColor = false;
             // 
             // h10_
             // 
             this.h10_.BackColor = System.Drawing.Color.Transparent;
             this.h10_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.h10_.Location = new System.Drawing.Point(907, 446);
+            this.h10_.Location = new System.Drawing.Point(1209, 549);
+            this.h10_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.h10_.Name = "h10_";
-            this.h10_.Size = new System.Drawing.Size(36, 30);
+            this.h10_.Size = new System.Drawing.Size(48, 37);
             this.h10_.TabIndex = 2;
-            this.h10_.Text = "Attack";
+            this.h10_.Text = "H10";
             this.h10_.UseVisualStyleBackColor = false;
             // 
             // i5_
             // 
             this.i5_.BackColor = System.Drawing.Color.Transparent;
             this.i5_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.i5_.Location = new System.Drawing.Point(944, 300);
+            this.i5_.Location = new System.Drawing.Point(1259, 369);
+            this.i5_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.i5_.Name = "i5_";
-            this.i5_.Size = new System.Drawing.Size(33, 28);
+            this.i5_.Size = new System.Drawing.Size(44, 34);
             this.i5_.TabIndex = 2;
-            this.i5_.Text = "Attack";
+            this.i5_.Text = "I5";
             this.i5_.UseVisualStyleBackColor = false;
             // 
             // i6_
             // 
             this.i6_.BackColor = System.Drawing.Color.Transparent;
             this.i6_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.i6_.Location = new System.Drawing.Point(944, 328);
+            this.i6_.Location = new System.Drawing.Point(1259, 404);
+            this.i6_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.i6_.Name = "i6_";
-            this.i6_.Size = new System.Drawing.Size(33, 30);
+            this.i6_.Size = new System.Drawing.Size(44, 37);
             this.i6_.TabIndex = 2;
-            this.i6_.Text = "Attack";
+            this.i6_.Text = "I6";
             this.i6_.UseVisualStyleBackColor = false;
             // 
             // j5_
             // 
             this.j5_.BackColor = System.Drawing.Color.Transparent;
             this.j5_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j5_.Location = new System.Drawing.Point(976, 300);
+            this.j5_.Location = new System.Drawing.Point(1301, 369);
+            this.j5_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j5_.Name = "j5_";
-            this.j5_.Size = new System.Drawing.Size(36, 28);
+            this.j5_.Size = new System.Drawing.Size(48, 34);
             this.j5_.TabIndex = 2;
-            this.j5_.Text = "Attack";
+            this.j5_.Text = "J5";
             this.j5_.UseVisualStyleBackColor = false;
             // 
             // j6_
             // 
             this.j6_.BackColor = System.Drawing.Color.Transparent;
             this.j6_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j6_.Location = new System.Drawing.Point(976, 328);
+            this.j6_.Location = new System.Drawing.Point(1301, 404);
+            this.j6_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j6_.Name = "j6_";
-            this.j6_.Size = new System.Drawing.Size(36, 30);
+            this.j6_.Size = new System.Drawing.Size(48, 37);
             this.j6_.TabIndex = 2;
-            this.j6_.Text = "Attack";
+            this.j6_.Text = "J6";
             this.j6_.UseVisualStyleBackColor = false;
             // 
             // i7_
             // 
             this.i7_.BackColor = System.Drawing.Color.Transparent;
             this.i7_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.i7_.Location = new System.Drawing.Point(944, 359);
+            this.i7_.Location = new System.Drawing.Point(1259, 442);
+            this.i7_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.i7_.Name = "i7_";
-            this.i7_.Size = new System.Drawing.Size(33, 28);
+            this.i7_.Size = new System.Drawing.Size(44, 34);
             this.i7_.TabIndex = 2;
-            this.i7_.Text = "Attack";
+            this.i7_.Text = "I7";
             this.i7_.UseVisualStyleBackColor = false;
             // 
             // i8_
             // 
             this.i8_.BackColor = System.Drawing.Color.Transparent;
             this.i8_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.i8_.Location = new System.Drawing.Point(944, 387);
+            this.i8_.Location = new System.Drawing.Point(1259, 476);
+            this.i8_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.i8_.Name = "i8_";
-            this.i8_.Size = new System.Drawing.Size(33, 30);
+            this.i8_.Size = new System.Drawing.Size(44, 37);
             this.i8_.TabIndex = 2;
-            this.i8_.Text = "Attack";
+            this.i8_.Text = "I8";
             this.i8_.UseVisualStyleBackColor = false;
             // 
             // j7_
             // 
             this.j7_.BackColor = System.Drawing.Color.Transparent;
             this.j7_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j7_.Location = new System.Drawing.Point(976, 359);
+            this.j7_.Location = new System.Drawing.Point(1301, 442);
+            this.j7_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j7_.Name = "j7_";
-            this.j7_.Size = new System.Drawing.Size(36, 28);
+            this.j7_.Size = new System.Drawing.Size(48, 34);
             this.j7_.TabIndex = 2;
-            this.j7_.Text = "Attack";
+            this.j7_.Text = "J7";
             this.j7_.UseVisualStyleBackColor = false;
+            this.j7_.Click += new System.EventHandler(this.j7__Click);
             // 
             // j8_
             // 
             this.j8_.BackColor = System.Drawing.Color.Transparent;
             this.j8_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j8_.Location = new System.Drawing.Point(976, 387);
+            this.j8_.Location = new System.Drawing.Point(1301, 476);
+            this.j8_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j8_.Name = "j8_";
-            this.j8_.Size = new System.Drawing.Size(36, 30);
+            this.j8_.Size = new System.Drawing.Size(48, 37);
             this.j8_.TabIndex = 2;
-            this.j8_.Text = "Attack";
+            this.j8_.Text = "J8";
             this.j8_.UseVisualStyleBackColor = false;
             // 
             // i9_
             // 
             this.i9_.BackColor = System.Drawing.Color.Transparent;
             this.i9_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.i9_.Location = new System.Drawing.Point(944, 418);
+            this.i9_.Location = new System.Drawing.Point(1259, 514);
+            this.i9_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.i9_.Name = "i9_";
-            this.i9_.Size = new System.Drawing.Size(33, 28);
+            this.i9_.Size = new System.Drawing.Size(44, 34);
             this.i9_.TabIndex = 2;
-            this.i9_.Text = "Attack";
+            this.i9_.Text = "I9";
             this.i9_.UseVisualStyleBackColor = false;
             // 
             // i10_
             // 
             this.i10_.BackColor = System.Drawing.Color.Transparent;
             this.i10_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.i10_.Location = new System.Drawing.Point(944, 446);
+            this.i10_.Location = new System.Drawing.Point(1259, 549);
+            this.i10_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.i10_.Name = "i10_";
-            this.i10_.Size = new System.Drawing.Size(33, 30);
+            this.i10_.Size = new System.Drawing.Size(44, 37);
             this.i10_.TabIndex = 2;
             this.i10_.Text = "I10";
             this.i10_.UseVisualStyleBackColor = false;
@@ -2701,20 +2807,22 @@
             // 
             this.j9_.BackColor = System.Drawing.Color.Transparent;
             this.j9_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j9_.Location = new System.Drawing.Point(976, 418);
+            this.j9_.Location = new System.Drawing.Point(1301, 514);
+            this.j9_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j9_.Name = "j9_";
-            this.j9_.Size = new System.Drawing.Size(36, 28);
+            this.j9_.Size = new System.Drawing.Size(48, 34);
             this.j9_.TabIndex = 2;
-            this.j9_.Text = "Attack";
+            this.j9_.Text = "J9";
             this.j9_.UseVisualStyleBackColor = false;
             // 
             // j10_
             // 
             this.j10_.BackColor = System.Drawing.Color.Transparent;
             this.j10_.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.j10_.Location = new System.Drawing.Point(976, 446);
+            this.j10_.Location = new System.Drawing.Point(1301, 549);
+            this.j10_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.j10_.Name = "j10_";
-            this.j10_.Size = new System.Drawing.Size(36, 30);
+            this.j10_.Size = new System.Drawing.Size(48, 37);
             this.j10_.TabIndex = 2;
             this.j10_.Text = "J10";
             this.j10_.UseVisualStyleBackColor = false;
@@ -2726,12 +2834,12 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImage = global::Battleship.Properties.Resources.background_;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1064, 530);
+            this.ClientSize = new System.Drawing.Size(1419, 652);
             this.Controls.Add(this.j10_);
             this.Controls.Add(this.j10);
             this.Controls.Add(this.j9_);
@@ -2940,6 +3048,7 @@
             this.Controls.Add(this.TxtEnemy);
             this.Controls.Add(this.TxtPlayer);
             this.DoubleBuffered = true;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Battleship by Michał Nowak & Michał Kowalski";
             this.ResumeLayout(false);
